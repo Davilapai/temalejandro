@@ -1,23 +1,23 @@
 {
-  "name": "tea-leaves",
-  "displayName": "Tea Leaves",
-  "description": "A beautiful nighttime theme inspired by a cup of tea, optimized for C++, Python, JavaScript, TypeScript, Rust, and modern development in VS Code.",
+  "name": "temalejandro",
+  "displayName": "Temalejandro",
+  "description": "DasLanky te amo, este tema es el tea leaves tuyo pero con soporte para c++ y python mas algunas correcciones",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.72.0"
   },
-  "publisher": "DasLanky",
+  "publisher": "Davilapai",
   "categories": [
     "Themes"
   ],
   "icon": "icon.png",
   "repository": {
-    "url": "https://github.com/DasLanky/tea-leaves"
+    "url": "https://github.com/Davilapai/temalejandro"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Tea Leaves",
+        "label": "Teamalejandro",
         "uiTheme": "vs-dark",
         "path": "./themes/Tea-Leaves-color-theme.json"
       }
