@@ -1,8 +1,8 @@
 {
   "name": "temalejandro",
   "displayName": "Temalejandro",
-  "description": "DasLanky te amo, este tema es el tea leaves tuyo pero con soporte para c++ y python mas algunas correcciones",
-  "version": "0.1.0",
+  "description": "DasLanky te amo, este tema es el tea leaves tuyo pero con soporte para c++, python y java, mas algunas correcciones y un modo claro",
+  "version": "0.2.0",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -20,17 +20,24 @@
         "label": "Teamalejandro",
         "uiTheme": "vs-dark",
         "path": "./themes/Tea-Leaves-color-theme.json"
+      },
+      {
+        "label": "Tea Leaves Light",
+        "uiTheme": "vs",
+        "path": "./themes/Tea-Leaves-light-color-theme.json"
       }
     ]
   },
   "keywords": [
     "theme",
     "dark",
+    "light",
     "color-theme",
     "tea-leaves",
     "cpp",
     "c++",
     "python",
+    "java",
     "slate",
     "green"
   ],
