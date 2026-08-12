@@ -2,7 +2,7 @@
   "name": "temalejandro",
   "displayName": "Temalejandro",
   "description": "DasLanky te amo, este tema es el tea leaves tuyo pero con soporte para c++, python y java, mas algunas correcciones y un modo claro",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "engines": {
     "vscode": "^1.72.0"
   },

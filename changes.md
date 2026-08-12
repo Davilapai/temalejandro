@@ -70,6 +70,17 @@ Se añadió la especificación semántica completa:
 
 ---
 
+## 6. Actualización v0.2.1: Resaltado de C++ (`cin`, `cout`, `cerr`) y Rediseño de Contraste en Modo Claro
+
+- **Soporte I/O en C++**: Se configuraron reglas específicas tanto en TextMate (`tokenColors`) como en el Motor Semántico (`semanticTokenColors`) para que `cin`, `cout`, `cerr`, `clog`, `endl` y flujos estándar de C++ se muestren en el color amarillo característico del tema (`#e5c185` en tema oscuro y `#945b0b` en tema claro).
+- **Mejora Integral de Contraste en Modo Claro (Tea Leaves Light)**:
+  - **Texto Base y Puntuación**: Ajustado de `#3a3f3a` a un tono carbón profundo `#1c2320`, logrando una nitidez perfecta en pantallas claras.
+  - **Comentarios**: Oscurecido de `#828b85` a `#526058` para cumplir y superar el estándar WCAG de legibilidad (ratio > 4.5:1).
+  - **Paleta Sintáctica**: Resaturada e intensificada (Palabras clave `#276831`, Funciones `#945b0b`, Clases `#155a6d`, Variables `#0c6868`, Cadenas `#105467`, Preprocesador `#a63a12`).
+  - **Componentes de Interfaz**: Mejorado el contraste de la Barra Lateral, Barra de Estado, Pestañas, Números de Línea (`#918a7b`) y Menús.
+
+---
+
 ## Resultado Final
 
-El tema **Tea Leaves** ahora carga de forma fluida y sin advertencias ni inconsistencias visuales, ofreciendo una experiencia de desarrollo estéticamente armónica y con una legibilidad superior para **C++**, **Python** y el resto del ecosistema de desarrollo en VS Code.
+El tema **Tea Leaves** ofrece ahora un resaltado impecable para flujos de E/S en **C++** y un **Modo Claro** vibrante, elegante y de altísimo contraste.

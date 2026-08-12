@@ -20,7 +20,7 @@ Tema para VS Code con dos variantes:
    Alternativamente, desde la terminal dentro de la carpeta del repositorio:
 
    ```sh
-   code --install-extension temalejandro-0.2.0.vsix
+   code --install-extension temalejandro-0.2.1.vsix
    ```
 
 3. Activa el tema: **Ctrl+K Ctrl+T** → elige **Teamalejandro** (oscuro) o **Tea Leaves Light** (claro).

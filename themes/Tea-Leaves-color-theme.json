@@ -60,6 +60,15 @@
     "variable.defaultLibrary": {
       "foreground": "#e5c185"
     },
+    "variable.defaultLibrary:cpp": {
+      "foreground": "#e5c185"
+    },
+    "variable.readonly.defaultLibrary:cpp": {
+      "foreground": "#e5c185"
+    },
+    "variable.static.defaultLibrary:cpp": {
+      "foreground": "#e5c185"
+    },
     "variable.constant": {
       "foreground": "#4daaaa"
     },
@@ -242,6 +251,26 @@
       ],
       "settings": {
         "foreground": "#92ba92"
+      }
+    },
+    {
+      "name": "C/C++ Standard Input/Output Streams & Builtins (cin, cout, cerr, clog, endl)",
+      "scope": [
+        "support.variable.std.cpp",
+        "support.variable.std.c",
+        "support.variable.cpp",
+        "support.variable.c",
+        "support.variable.object.cpp",
+        "support.variable.object.c",
+        "support.class.std.cpp",
+        "support.constant.std.cpp",
+        "variable.other.iostream.cpp",
+        "entity.name.variable.iostream.cpp",
+        "support.function.std.cpp",
+        "support.function.cpp"
+      ],
+      "settings": {
+        "foreground": "#e5c185"
       }
     },
     {
